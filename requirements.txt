@@ -1,5 +1,9 @@
-numpy==1.23.3
-oapackage
-persim
-#pycddlib
-POT
+# using python 3.9.13
+pycddlib==2.1.7
+matplotlib==3.6.0
+numpy
+oapackage==2.7.13
+pandas==1.5.0
+persim==0.3.7
+scipy==1.9.1
+POT==0.9.2
